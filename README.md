@@ -1,16 +1,30 @@
-### Hi there 👋
+# NestEgg LATAM
+Game-Changer for Latin American Financial Services
 
-<!--
-**nesteggLATAM/NestEggLATAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡WELCOME TO NESTEGG LATAM! 
 
-Here are some ideas to get you started:
+We are a company specialized in investing in sustainable businesses and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Over $350 million AUM
+- Portfolio 2,000+ registered investors
+- Committed to tackling climate change ESG
+- LATAM first Blockchain Hedge Fund MultiStrategy
+
+Investments sustainables (ESG) :
+- Natural Bovine Fertilizer
+- REITs (Holdings)
+- Index Fund NASDAQ
+- Medicinal Cannabis
+- SpaceX
+- Crypto Assets
+
+Address: Chelsea, New York | Rohrmoser, San Jose
+- Email: nestegg_investmentfund@outlook.com
+
+<div class="social-media">
+    <h2>Social media</h2>
+    <ul>
+      <li><a href="https://twitter.com/NestEggLATAM">Follow me on twitter!</a></li>
+      <li><a href="https://instagram.com/nestegglatam">Follow me on instagram!</a></li>
+    </ul>
+  </div>  
